@@ -46,7 +46,7 @@ Estoy aprendiendo **Inglés**, que considero fundamental para seguir desarrollá
 - **Teléfono:** +57 310 867 4441
 - **Correo:** [gustavober98@gmail.com](mailto:gustavober98@gmail.com)
 - **GitHub:** [Gtv1521](https://github.com/Gtv1521)
-- **Portafolio:** [Mi portafolio](https://miportafolio.com)
+- **Portafolio:** [Mi portafolio](https://folio-three-inky.vercel.app/)
 
 ## 🌟 Otros
 
