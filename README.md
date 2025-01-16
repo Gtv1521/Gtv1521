@@ -1,6 +1,6 @@
  ###
 <div align="center">
-  <img height="150" src="../Gtv1521/src/Assets/Img/WhatsApp Image 2025-01-16 at 4.07.41 PM.jpeg"  />
+  <img height="150" src="https://github.com/user-attachments/assets/45ae4ff5-b7b4-4531-b9a6-c9d3b36112d6"  />
 </div>
 
 ###
