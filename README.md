@@ -23,7 +23,7 @@
 # <h1 align="center">Bienvenido a mi GitHub</h1>
 
 # <div aling="center"> Gustavo Adolfo Bernal Acero 👨‍💻</div>
-## 👩‍💻 About Me
+## 👩‍💻 Acerca de mi
 
 ¡Hola! Soy Gustavo Bernal, un desarrollador autodidacta con un fuerte enfoque en la creación de soluciones de software eficientes y escalables. Me apasiona el desarrollo web y la programación en general. Me gusta aprender constantemente y aplicar mis conocimientos en mis proyectos laborales y personales.
 
@@ -115,23 +115,19 @@ Estoy aprendiendo **Inglés**, que considero fundamental para seguir desarrollá
 
 - Trabajo bajo presión con facilidad y me gusta mantener el orden en los proyectos.
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/8e210d36-3697-45e1-9bbe-db31d448306f" height="220" alt="streak graph"  />
-  <img src="https://github.com/user-attachments/assets/7f79e042-2e2e-4a26-b3d3-c39f69c614c1" height="220" alt="streak2 graph"  />
-  <img src="https://github.com/user-attachments/assets/a803bfc8-c4f0-4c0e-9cdd-f89cd79e531f" height="220" alt="streak3 graph"  />
-</div>
-
-###
+## 🔥 Estado </h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gtv1521&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gtv1521&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+<div aling="center">Fin...</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8e210d36-3697-45e1-9bbe-db31d448306f" height="220" alt="streak graph"  />
+  <img src="https://github.com/user-attachments/assets/7f79e042-2e2e-4a26-b3d3-c39f69c614c1" height="220" alt="streak2 graph"  />
+  <img src="https://github.com/user-attachments/assets/a803bfc8-c4f0-4c0e-9cdd-f89cd79e531f" height="220" alt="streak3 graph"  />
 </div>
 
 ###
