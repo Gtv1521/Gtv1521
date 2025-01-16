@@ -131,6 +131,7 @@ Estoy aprendiendo **Inglés**, que considero fundamental para seguir desarrollá
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8e210d36-3697-45e1-9bbe-db31d448306f" height="220" alt="streak graph"  />
+  <img src="https://github.com/user-attachments/assets/7f79e042-2e2e-4a26-b3d3-c39f69c614c1" height="220" alt="streak graph"  />
 </div>
 
 ###
