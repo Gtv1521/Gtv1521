@@ -1,4 +1,4 @@
-
+ ###
   <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -20,14 +20,13 @@
 
 ###
 
-<h1 align="center">Bienvenido a mi GitHub</h1>
+### <h1 align="center">Bienvenido a mi GitHub</h1> ###
 
-###<h3 align="left">👩‍💻  About Me</h3>###
-
+### <h3 align="left">👩‍💻 About Me</h3> ###
 
 # Gustavo Adolfo Bernal Acero 👨‍💻
 
-¡Hola! Soy Gustavo Adolfo Bernal Acero, un desarrollador autodidacta con un fuerte enfoque en la creación de soluciones de software eficientes y escalables. Me apasiona el desarrollo web y la programación en general. Me gusta aprender constantemente y aplicar mis conocimientos en mis proyectos laborales y personales.
+¡Hola! Soy Gustavo Bernal, un desarrollador autodidacta con un fuerte enfoque en la creación de soluciones de software eficientes y escalables. Me apasiona el desarrollo web y la programación en general. Me gusta aprender constantemente y aplicar mis conocimientos en mis proyectos laborales y personales.
 
 ## 🚀 Habilidades Técnicas
 
@@ -78,7 +77,6 @@ Estoy aprendiendo **Inglés**, que considero fundamental para seguir desarrollá
 ## 🌟 Otros
 
 - Trabajo bajo presión con facilidad y me gusta mantener el orden en los proyectos.
-
 
 ###
 
