@@ -23,6 +23,7 @@
 # <h1 align="center">Bienvenido a mi GitHub</h1>
 
 # <div aling="center"> Gustavo Adolfo Bernal Acero 👨‍💻</div>
+## 👩‍💻 About Me
 
 ¡Hola! Soy Gustavo Bernal, un desarrollador autodidacta con un fuerte enfoque en la creación de soluciones de software eficientes y escalables. Me apasiona el desarrollo web y la programación en general. Me gusta aprender constantemente y aplicar mis conocimientos en mis proyectos laborales y personales.
 
