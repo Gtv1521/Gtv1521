@@ -126,7 +126,7 @@ Estoy aprendiendo **Inglés**, que considero fundamental para seguir desarrollá
 <div align="center"> 
   
   ### 
-  **Correo:** 
+  **Gracias por ver ....** 
 </div>
 
 ###
