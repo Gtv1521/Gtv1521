@@ -130,7 +130,7 @@ Estoy aprendiendo **Inglés**, que considero fundamental para seguir desarrollá
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gtv1521&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github.com/user-attachments/assets/8e210d36-3697-45e1-9bbe-db31d448306f" height="220" alt="streak graph"  />
 </div>
 
 ###
