@@ -123,7 +123,7 @@ Estoy aprendiendo **Inglés**, que considero fundamental para seguir desarrollá
 </div>
 
 ###
-<div align="center">Fin...</div>
+<div align="center"> ** Fin Gracias por ver ... ** </div>
 
 ###
 <div align="center">
