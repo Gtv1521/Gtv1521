@@ -1,4 +1,4 @@
- ###
+###
 <div align="center">
   <img height="450" width="700" src="https://github.com/user-attachments/assets/00f3d4f4-6233-4c69-9bea-9da6e57fa636"  />
 </div>
@@ -115,7 +115,7 @@ Estoy aprendiendo **Inglés**, que considero fundamental para seguir desarrollá
 
 - Trabajo bajo presión con facilidad y me gusta mantener el orden en los proyectos.
 
-## 🔥 Estado </h3>
+## 🔥 Estado
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gtv1521&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -123,7 +123,7 @@ Estoy aprendiendo **Inglés**, que considero fundamental para seguir desarrollá
 </div>
 
 ###
-<div aling="center">Fin...</div>
+<div align="center">Fin...</div>
 
 ###
 <div align="center">
